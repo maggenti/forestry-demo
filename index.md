@@ -1,26 +1,24 @@
 ---
 title: Home
-banner_image: "/img/banner.png"
+banner_image: "/uploads/2019/08/28/H13517-1240x821.jpg"
 layout: landing-page
-heading: Belkirk College
+heading: 3DePlans
 partners:
 - "/uploads/2017/11/13/stem.png"
 - "/uploads/2017/11/13/UPenn_logo.png"
 - "/uploads/2017/11/13/nysed.png"
 services:
-- description: Performing collaborative research and providing services to support
-    the Health Sector.
-  heading: Health
+- description: Teaching House Design for Home Owners, Contractors and Designers.
+  heading: House Design
   icon: "/uploads/2017/11/13/health.png"
-- description: Performing collaborative research and providing services to support
-    the biotechnology sector.
-  heading: BioTech
+- description: We are here to help you learn house design from start to finish.
+  heading: Designing
   icon: "/uploads/2017/11/13/biotech.png"
-sub_heading: Engineering and Health Sciences
+sub_heading: House Design for everyone.
 textline: |
-  Belkirk College of Engineering
+  3DePlans
 
-  Ora et Labora
+  Learn What Others Only Dream About
 hero_button:
   text: Learn more
   href: "/about"
