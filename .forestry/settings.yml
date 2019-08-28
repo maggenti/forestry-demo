@@ -9,7 +9,7 @@ sections:
   label: Law Docs
   create: documents
   match: "**/*"
-  new_doc_ext: ".html"
+  new_doc_ext: html
   templates:
   - landing-page
 - type: heading
