@@ -23,6 +23,7 @@ fields:
   description: 'Dimensions: 1200px by 580px'
   config:
     maxSize: '2'
+  default: "/uploads/2019/08/28/H13517-1240x821.jpg"
 - type: field_group
   name: hero_button
   label: Hero Button
