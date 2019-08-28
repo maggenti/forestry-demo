@@ -1,6 +1,6 @@
 ---
 title: Home
-banner_image: "/uploads/2019/08/28/H13517-1240x821.jpg"
+banner_image: "/img/banner.png"
 layout: landing-page
 heading: 3DePlans
 partners:

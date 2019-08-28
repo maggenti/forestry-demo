@@ -1,7 +1,7 @@
 ---
 title: About
 date: '2017-11-01T03:00:00.000+00:00'
-banner_image: "/uploads/2019/08/28/H13517-1240x821.jpg"
+banner_image: "/img/banner.png"
 heading: About 3DePlans
 sub_heading: Learn What Others Only Dream About!
 layout: landing-page
