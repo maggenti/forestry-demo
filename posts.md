@@ -1,5 +1,5 @@
 ---
-title: Posts
+title: Articles
 layout: posts
 sub_heading: ''
 description: Articles by 3DePlans
