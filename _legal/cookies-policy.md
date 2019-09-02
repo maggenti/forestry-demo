@@ -12,7 +12,6 @@ services: []
 show_news: false
 legal: []
 show_staff: false
-published: false
 
 ---
 First we should clear things up.  Cookies are very simple text information packets stored by web browsers.
