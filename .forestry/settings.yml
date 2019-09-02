@@ -38,6 +38,7 @@ sections:
   match: "*"
   new_doc_ext: md
   templates:
+  - legal
   - landing-page
 - type: document
   path: _data/information.yml
