@@ -12,7 +12,6 @@ services: []
 show_news: false
 partners: []
 show_staff: false
-published: false
 
 ---
 Let's face it, today everyone needs to protect themselves. On websites there are a great many legal aspects that must be covered. Legislation has determined that there are specific categories of information that must be disclosed on any website.
