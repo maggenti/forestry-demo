@@ -80,13 +80,4 @@ fields:
   hidden: true
   default: home
 pages:
-- legal/affiliate-disclosures.md
-- legal/anti-spam-policy.md
-- legal/cookie-policy.md
-- legal/cookies-policy.md
-- legal/dmca-digital-millennium-copyright-act.md
-- legal/legal-disclaimer.md
-- legal/linking-policy.md
-- legal/privacy-policy.md
-- legal/terms-and-conditions.md
 - index.md
