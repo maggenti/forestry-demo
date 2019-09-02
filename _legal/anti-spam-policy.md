@@ -12,7 +12,6 @@ services: []
 show_news: false
 legal: []
 show_staff: false
-published: false
 
 ---
 What is Spam? In the context of electronic messaging, spam refers to any unsolicited, bulk or indiscriminate messages, typically sent for a commercial purpose. 3DePlans.com has a zero-tolerance spam policy.
