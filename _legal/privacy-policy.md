@@ -12,7 +12,6 @@ services: []
 show_news: false
 legal: []
 show_staff: false
-published: false
 
 ---
 Your privacy is very important to 3DePlans.com. This privacy statement provides information about the personal information that 3DePlans.com collects, and the ways in which 3DePlans.com uses that personal information.
