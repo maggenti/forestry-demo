@@ -14,6 +14,13 @@ services: []
 show_news: false
 partners: []
 show_staff: false
+menu:
+  navigation:
+    weight: 6
+    title: Legal Docs
+  footer:
+    weight: 4
+    title: Legal Docs
 
 ---
 Let's face it, today everyone needs to protect themselves. On websites there are a great many legal aspects that must be covered. Legislation has determined that there are specific categories of information that must be disclosed on any website.
