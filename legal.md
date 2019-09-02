@@ -13,7 +13,7 @@ textline: "Let's face it, today everyone needs to protect themselves. On website
   website. \n\nThere are so many different hoops that sometimes it can take a long
   time to read all of them! However, we must jump through all of those hoops just
   like everyone else. The law also regulates the kinds of content that can be published
-  on any website. \n\nThank you"
+  on any website. \n\nThank you\n\n[Legal](https://app.forestry.io/sites/xwezmyti1xft7g/#/sections/legal/)"
 menu:
   footer:
     identifier: _legal
