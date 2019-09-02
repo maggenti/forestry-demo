@@ -7,7 +7,9 @@ title: Legal Documents
 hero_button:
   text: ''
   href: ''
-textline: ''
+textline: |2-
+
+  [Legal](https://app.forestry.io/sites/xwezmyti1xft7g/#/sections/legal/)
 services: []
 show_news: false
 partners: []
