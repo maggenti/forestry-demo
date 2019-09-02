@@ -12,7 +12,6 @@ services: []
 show_news: false
 legal: []
 show_staff: false
-published: false
 
 ---
 These terms and conditions govern your use of this website and by using this website, you hereby accept these terms and conditions in full. If you disagree with these terms and conditions or any part of these terms and conditions, you must not use this site.
