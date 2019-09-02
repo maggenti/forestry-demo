@@ -12,7 +12,6 @@ services: []
 show_news: false
 legal: []
 show_staff: false
-published: false
 
 ---
 3DePlans welcomes links to this website that are made in accordance with the terms of this linking policy. This linking policy is intended to assist you when linking to this website.
