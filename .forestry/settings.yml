@@ -35,7 +35,7 @@ sections:
   path: _legal
   label: Legal
   create: all
-  match: "*"
+  match: "**/*"
   new_doc_ext: md
   templates:
   - legal
