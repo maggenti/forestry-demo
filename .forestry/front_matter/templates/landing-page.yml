@@ -12,11 +12,11 @@ fields:
 - type: text
   label: Hero Heading
   name: heading
-  default: Belkirk College
+  default: 3DePlans
 - type: text
   name: sub_heading
   label: Hero Sub heading
-  default: Engineering and Health Sciences
+  default: House Design
 - type: file
   name: banner_image
   label: Hero Image
@@ -80,5 +80,13 @@ fields:
   hidden: true
   default: home
 pages:
-- lawdocs/affiliate-disclosures.html
+- legal/affiliate-disclosures.md
+- legal/anti-spam-policy.md
+- legal/cookie-policy.md
+- legal/cookies-policy.md
+- legal/dmca-digital-millennium-copyright-act.md
+- legal/legal-disclaimer.md
+- legal/linking-policy.md
+- legal/privacy-policy.md
+- legal/terms-and-conditions.md
 - index.md

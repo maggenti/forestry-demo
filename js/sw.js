@@ -15,7 +15,7 @@ const buildContentBlob = () => {
         "{{ page.url }}",
       {%- endunless -%}
     {%- endfor -%}
-      "{{ site.logo }}", "/assets/default-offline-image.png", "/assets/scripts/fetch.js"
+      "{{ site.logo }}", "/img/default-offline-image.png", "/js/fetch.js"
   ]
 }
 
@@ -73,7 +73,7 @@ self.addEventListener("fetch", event => {
 
   if (request.url.match(/\.(jpe?g|png|gif|svg)$/)) {
     // If url requested is an image and isn't cached, return default offline image
-    offlineAsset = "/assets/default-offline-image.png";
+    offlineAsset = "/img/default-offline-image.png";
   }
 
   // For all urls request image from network, then fallback to cache, then fallback to offline page

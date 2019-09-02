@@ -2,7 +2,7 @@
 heading: Copyright Notice
 sub_heading: ''
 banner_image: ''
-layout: home
+layout: landing-page
 title: Copyright Notice
 hero_button:
   text: ''
@@ -10,7 +10,7 @@ hero_button:
 textline: ''
 services: []
 show_news: false
-partners: []
+legal: []
 show_staff: false
 published: false
 

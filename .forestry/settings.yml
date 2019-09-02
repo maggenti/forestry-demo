@@ -1,21 +1,13 @@
 ---
-new_page_extension: html
+new_page_extension: md
 auto_deploy: false
 admin_path: ''
 webhook_url: 
 sections:
-- type: directory
-  path: lawdocs
-  label: Law Docs
-  create: documents
-  match: "**/*"
-  new_doc_ext: html
-  templates:
-  - landing-page
 - type: heading
   label: Content
 - type: jekyll-posts
-  label: Posts
+  label: Articles
   create: all
   templates:
   - post
@@ -39,6 +31,14 @@ sections:
   match: "*"
   templates:
   - project
+- type: directory
+  path: _legal
+  label: Legal
+  create: all
+  match: "*"
+  new_doc_ext: md
+  templates:
+  - landing-page
 - type: document
   path: _data/information.yml
   label: Contact Information
@@ -55,4 +55,4 @@ build:
   preview_docker_image: forestryio/ruby:2.6
   mount_path: "/srv"
   instant_preview_command: bundle exec jekyll serve --drafts --unpublished --future
-    --port 8080 --host 0.0.0.0 -d _site
+    --port 8080 --host 127.0.0.1 -d _site

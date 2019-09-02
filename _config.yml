@@ -1,4 +1,4 @@
-title: 3DePlans House Desing for Everyone
+title: 3DePlans - Learn House Design
 short_title: 3DePlans
 description: House Design for Contractors Designers and Home Owners.
 baseurl:
@@ -22,9 +22,9 @@ collections:
   projects:
     output: true
     permalink: "/projects/:path/"
-  legal-docs:
+  legal:
     output: true
-    permalink: "/legal-docs/:path/"
+    permalink: "/legal/:path/"
 # tag_page_layout: tag_page
  # tag_page_dir: tag
 jekyll-archives:
@@ -34,3 +34,16 @@ plugins:
   - jekyll-menus
   - jekyll-feed
   - jekyll-archives
+include:
+  - _legal
+pages:
+- legal/affiliate-disclosures.md
+- legal/anti-spam-policy.md
+- legal/cookie-policy.md
+- legal/cookies-policy.md
+- legal/dmca-digital-millennium-copyright-act.md
+- legal/legal-disclaimer.md
+- legal/linking-policy.md
+- legal/privacy-policy.md
+- legal/terms-and-conditions.md
+- index.md
